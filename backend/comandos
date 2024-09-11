@@ -13,3 +13,4 @@ npm i zod biblioteca pra validacao de dados
 npx drizzle-kit generate comando p gerar migration
 npx drizzle-kit migrate cria a tabela com base na migration
 npm i postgres instalar o driver do postgres
+npm i @paralleldrive/cuid2

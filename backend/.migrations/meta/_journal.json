@@ -8,6 +8,13 @@
       "when": 1726058480466,
       "tag": "0000_purple_sumo",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726074698537,
+      "tag": "0001_third_chat",
+      "breakpoints": true
     }
   ]
 }
