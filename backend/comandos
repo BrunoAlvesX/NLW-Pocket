@@ -10,3 +10,4 @@ docker compose up -d baixa e roda o postgres no docker
 npm i drizzle-orm orm para o bd que vai ser usado em producao
 npm i drizzle-kit -D que vai ser usado em desenvolvimento
 npm i zod biblioteca pra validacao de dados
+npx drizzle-kit generate comando p gerar migration
