@@ -1,0 +1,12 @@
+npm init -y criacao do package.json
+npm i typescript -D instala o typescript
+npx tsc --init gera o tsconfig.json
+npm i @types/node configura o typescript para node
+npm i @types/node tsx -D permite executar o projeto sem precisar converter antes para javascript
+npm run dev para executar a aplicacao
+npm i fastify framework web
+npm i -D --save--exact @biomejs/biome ferramenta para formatacao do codigo
+docker compose up -d baixa e roda o postgres no docker
+npm i drizzle-orm orm para o bd que vai ser usado em producao
+npm i drizzle-kit -D que vai ser usado em desenvolvimento
+npm i zod biblioteca pra validacao de dados
