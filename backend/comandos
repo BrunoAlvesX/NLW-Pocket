@@ -14,3 +14,5 @@ npx drizzle-kit generate comando p gerar migration
 npx drizzle-kit migrate cria a tabela com base na migration
 npm i postgres instalar o driver do postgres
 npm i @paralleldrive/cuid2
+npx drizzle-kit studio
+npm i dayjs para mexer com data
